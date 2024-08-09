@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [Moderando Terratre];
+const statusMessages = ["Moderando Terratre"];
 
 
 let currentIndex = 0;
